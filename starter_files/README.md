@@ -49,7 +49,7 @@ In this step, we will find the best model and use it for our further analysis. B
 ![Best_Model](https://user-images.githubusercontent.com/55974694/112052754-7d095780-8b79-11eb-9d54-af093a932cec.png)
 
 
-The best algorithm found is VotingEnsemble with an accuracy of 92.018%.
+The best algorithm found is **VotingEnsemble with an accuracy of 91.745%**.
 
 
 *TODO* Remeber to provide screenshots of the `RunDetails` widget as well as a screenshot of the best model trained with it's parameters.
