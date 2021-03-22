@@ -21,8 +21,21 @@ Using authentication with automation is the best way to go. If authentication is
 
 Types of Authentication: 1. Key based 2. Token based 3. Interactive
 
-### Dataset registeration
+### Dataset registration
+
+First, I registered the bank marketing dataset in azure.
+
+
 A new dataset is created by navigating in datasets section from the left panel of Azure studio. Dataset can be created either by using the web url or by uploading the data from local csv.
+
+![Dataset](https://user-images.githubusercontent.com/55974694/112051909-7b8b5f80-8b78-11eb-95f9-7187b5c6f293.png)
+
+
+### AutoML Model
+
+This feature of Azure allows to build ML models with high scale, efficiency and productivity, all while sustaining model quality. Thus automating the time-consuming, iterative tasks of ML model development.
+
+I ran the AutoML Experiment. The screenshot below shows that the run was completed.
 
 
 *TODO* Remeber to provide screenshots of the `RunDetails` widget as well as a screenshot of the best model trained with it's parameters.
