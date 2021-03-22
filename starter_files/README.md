@@ -1,12 +1,13 @@
-*NOTE:* This file is a template that you can use to create the README for your project. The *TODO* comments below will highlight the information you should be sure to include.
 
 
-# Your Project Title Here
+# Operationalizing Machine Learning
 
-*TODO:* Write an overview to your project.
+In this project, we work with the Bank Marketing dataset. The dataset contains information about the marketing campaign of a Portuguese Banking Institute. The classification goal is to predict whether a client will subscribe to a term deposit or not. We use Azure to configure a cloud-based machine learning production model, deploy it, and consume it. Atlast, we will also create, publish, and consume a pipeline.
+
+
 
 ## Architectural Diagram
-*TODO*: Provide an architectual diagram of the project and give an introduction of each step.
+
 
 ## Key Steps
 *TODO*: Write a short discription of the key steps. Remeber to include all the screencasts required to demonstrate key steps. 
