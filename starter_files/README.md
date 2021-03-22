@@ -46,6 +46,9 @@ I ran the AutoML Experiment. The screenshot below shows that the run was complet
 In this step, we will find the best model and use it for our further analysis. Below is the screenshot of our best model.
 
 
+![Best_Model](https://user-images.githubusercontent.com/55974694/112052754-7d095780-8b79-11eb-9d54-af093a932cec.png)
+
+
 The best algorithm found is VotingEnsemble with an accuracy of 92.018%.
 
 
