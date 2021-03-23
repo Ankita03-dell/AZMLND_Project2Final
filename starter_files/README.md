@@ -137,6 +137,10 @@ The screenshot below is of the logs.py script and logs output, which is the info
 Since the application insights have been enabled, it's shown as true in the properties section.
 
 
+
+![application_sights_enabled](https://user-images.githubusercontent.com/55974694/112104980-da30f780-8bd1-11eb-9c07-4b6887ce5672.png)
+
+
 ### 6. Swagger Documentation
 
 Swagger is a tool that helps build, document and consume RESTful web services. It explains what types of HTTP requests that an API can consume like POST and GET.
