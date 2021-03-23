@@ -206,8 +206,6 @@ Pipeline is a great way to automate workflows.
 ### Creating & Running a pipeline
 
 
-![pipeline_created](https://user-images.githubusercontent.com/55974694/112109159-38aca480-8bd7-11eb-92fe-290de3990314.png)
-
 
 The Jupyter Notebook provided is run after configuring necessary details.A new pipeline is created with an AutoML step. The pipeline experiment is run and details are displayed using RunDetails widget. 
 
@@ -226,7 +224,11 @@ Publishing a pipeline is the process of making a pipeline publicly available. Th
 
 
 
-(active ss)
+![published_pipeline_overview_active](https://user-images.githubusercontent.com/55974694/112109156-377b7780-8bd7-11eb-8be1-1bfd510105f0.png)
+
+
+
+
 
 
 
@@ -235,13 +237,15 @@ In this experiment, the pipeline is published using the SDK. Once published, the
 
 
 
-(published pipeline overview - completed ss)  
+
+![pipeline_created](https://user-images.githubusercontent.com/55974694/112109159-38aca480-8bd7-11eb-92fe-290de3990314.png)
 
 
 
 
 
- (pipeline endpoints name ss)
+ 
+![pipeline_endpoint](https://user-images.githubusercontent.com/55974694/112109157-38140e00-8bd7-11eb-9071-ed257e1dd00b.png)
 
 
 
