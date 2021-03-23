@@ -89,6 +89,9 @@ Once the deployment is transitioned, the state will be shown as Healthy as seen 
 
 
 
+![Deployment_state_3](https://user-images.githubusercontent.com/55974694/112103442-c5536480-8bcf-11eb-8741-4f26b4a91f8c.png)
+
+
 
 
 
