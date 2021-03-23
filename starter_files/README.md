@@ -166,6 +166,17 @@ The HTTP POST request is a method used to submit data. The parameters and respon
 
 
 
+![POST_Parameters_1](https://user-images.githubusercontent.com/55974694/112108231-ecad3000-8bd5-11eb-8361-f998888a2189.png)
+
+
+
+![POST_parameters_2](https://user-images.githubusercontent.com/55974694/112108233-ed45c680-8bd5-11eb-8853-9d5ce100bea1.png)
+
+
+
+![POST_responses](https://user-images.githubusercontent.com/55974694/112108235-edde5d00-8bd5-11eb-9989-7a4662dc7002.png)
+
+
 ### 7. Consume Model Endpoint
 
 Once a model has been deployed, an endpoint will be available which allows user to send inputs to the trained model and get a response back. This is called  consuming deployed service.HTTP POST is a request method that is used to submit data and HTTP GET is used to retrieve information from a URL. 'endpoint.py' script is used for the same.
