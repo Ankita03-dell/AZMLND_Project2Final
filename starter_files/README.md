@@ -205,6 +205,10 @@ Pipeline is a great way to automate workflows.
 
 ### Creating & Running a pipeline
 
+
+![pipeline_created](https://user-images.githubusercontent.com/55974694/112109159-38aca480-8bd7-11eb-92fe-290de3990314.png)
+
+
 The Jupyter Notebook provided is run after configuring necessary details.A new pipeline is created with an AutoML step. The pipeline experiment is run and details are displayed using RunDetails widget. 
 
 Here's the screenshot
