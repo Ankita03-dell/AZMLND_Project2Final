@@ -243,6 +243,7 @@ In this experiment, the pipeline is published using the SDK. Once published, the
 
 
 
+The pipeline endpoint is marked as Active. Here's the screenshot
 
  
 ![pipeline_endpoint](https://user-images.githubusercontent.com/55974694/112109157-38140e00-8bd7-11eb-9071-ed257e1dd00b.png)
