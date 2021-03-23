@@ -209,6 +209,11 @@ The Jupyter Notebook provided is run after configuring necessary details.A new p
 
 Here's the screenshot
 
+![rundetails_widget_1](https://user-images.githubusercontent.com/55974694/112109131-2fbbd300-8bd7-11eb-9975-10c0c4f345e8.png)
+
+
+![rundetails_widget_2](https://user-images.githubusercontent.com/55974694/112109148-34808700-8bd7-11eb-9b3b-5b7113394d7b.png)
+
 
 
 ### Publishing Pipeline
