@@ -149,10 +149,21 @@ Swagger is a tool that helps build, document and consume RESTful web services. I
 ![swagger_ss](https://user-images.githubusercontent.com/55974694/112105580-97235400-8bd2-11eb-9068-2500305dbfd7.png)
 
 
+
+![deployed_model_swagger_page](https://user-images.githubusercontent.com/55974694/112108227-eb7c0300-8bd5-11eb-8f63-12c06763e237.png)
+
+
+
 The HTTP GET is used to retrieve information from a URL.The parameters and responses of the HTTP GET request are as follows:
 
 
+![GET_1](https://user-images.githubusercontent.com/55974694/112108215-e74fe580-8bd5-11eb-8c77-cf3653f0a574.png)
 
+
+![GET_2](https://user-images.githubusercontent.com/55974694/112108224-eae36c80-8bd5-11eb-863d-8b8a353701a6.png)
+
+
+![deployed_model_swagger_page](https://user-images.githubusercontent.com/55974694/112108227-eb7c0300-8bd5-11eb-8f63-12c06763e237.png)
 
 
 The HTTP POST request is a method used to submit data. The parameters and responses of the HTTP POST request are as follows:
