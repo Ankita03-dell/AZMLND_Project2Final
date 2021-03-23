@@ -187,7 +187,7 @@ Once a model has been deployed, an endpoint will be available which allows user 
 
 ### Benchmarking the endpoint
 
-Apache Benchmark is used to load-test the deployed model. It shows a lot of metrics including response time for a deployed model. After configuring the authentication keys, benchmark.sh was run. In this experiment, 10 requests were made where none failed. The average time per request was ms.
+Apache Benchmark is used to load-test the deployed model. It shows a lot of metrics including response time for a deployed model. After configuring the authentication keys, benchmark.sh was run. In this experiment, 10 requests were made where none failed. The average time per request was 159.918 ms.
 
 
 ![Apache_Benchmarking_1](https://user-images.githubusercontent.com/55974694/112109162-39ddd180-8bd7-11eb-8ec6-0eab42b0ae91.png)
