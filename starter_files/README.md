@@ -62,6 +62,9 @@ The best algorithm found is **VotingEnsemble with an accuracy of 91.745%**.
 Here's the screenshot of the training parameters of the best model 
 
 
+![best_model_train_parameters](https://user-images.githubusercontent.com/55974694/112103327-99d07a00-8bcf-11eb-8896-455592feb7da.png)
+
+
 
 ### 4. Deploy the Best Model
 
