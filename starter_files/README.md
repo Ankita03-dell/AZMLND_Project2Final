@@ -73,8 +73,15 @@ This means shipping the trained model into production, so that it can be consume
 
 The model is deployed using **Azure Container Instance**. Azure Container Instance service uses key-based authentication and is disabled by default. Deploying the best model allows interaction with the HTTP API service and data can be sent over POST requests.
 
+**Deployment triggered**
+
+![Deploying_](https://user-images.githubusercontent.com/55974694/112103409-b40a5800-8bcf-11eb-8036-63b92fb9731b.png)
+
 
 Once the deployment is transitioned, the state will be shown as Healthy as seen in the screenshot below.
+
+
+
 
 
 ### 5. Enable Application Insights
