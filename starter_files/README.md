@@ -182,6 +182,9 @@ The HTTP POST request is a method used to submit data. The parameters and respon
 Once a model has been deployed, an endpoint will be available which allows user to send inputs to the trained model and get a response back. This is called  consuming deployed service.HTTP POST is a request method that is used to submit data and HTTP GET is used to retrieve information from a URL. 'endpoint.py' script is used for the same.
 
 
+![consume_endpoint](https://user-images.githubusercontent.com/55974694/112108238-edde5d00-8bd5-11eb-9925-912706adea0f.png)
+
+
 ### Benchmarking the endpoint
 
 Apache Benchmark is used to load-test the deployed model. It shows a lot of metrics including response time for a deployed model. After configuring the authentication keys, benchmark.sh was run. In this experiment, 10 requests were made where none failed. The average time per request was ms.
