@@ -116,7 +116,7 @@ Application Insights is a very useful tool to detect anomalies and visualise per
 ### Enabling Application Insights using Python SDK
 
 The logs.py script is used to enable application insights after deployment. The script is run using Azure command line interface.
-The statement service.update(enable_app_insights=True) enables application insights for the deployment.
+The statement **service.update(enable_app_insights=True)** enables application insights for the deployment.
 
 The screenshot below is of the logs.py script and logs output, which is the informational output produced by the software, in the form of text.
 
@@ -146,9 +146,6 @@ Since the application insights have been enabled, it's shown as true in the prop
 Swagger is a tool that helps build, document and consume RESTful web services. It explains what types of HTTP requests that an API can consume like POST and GET.
 
 
-![swagger_ss](https://user-images.githubusercontent.com/55974694/112105580-97235400-8bd2-11eb-9068-2500305dbfd7.png)
-
-
 
 ![deployed_model_swagger_page](https://user-images.githubusercontent.com/55974694/112108227-eb7c0300-8bd5-11eb-8f63-12c06763e237.png)
 
@@ -163,7 +160,6 @@ The HTTP GET is used to retrieve information from a URL.The parameters and respo
 ![GET_2](https://user-images.githubusercontent.com/55974694/112108224-eae36c80-8bd5-11eb-863d-8b8a353701a6.png)
 
 
-![deployed_model_swagger_page](https://user-images.githubusercontent.com/55974694/112108227-eb7c0300-8bd5-11eb-8f63-12c06763e237.png)
 
 
 The HTTP POST request is a method used to submit data. The parameters and responses of the HTTP POST request are as follows:
