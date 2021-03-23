@@ -81,6 +81,10 @@ The model is deployed using **Azure Container Instance**. Azure Container Instan
 Once the deployment is transitioned, the state will be shown as Healthy as seen in the screenshot below.
 
 
+![deployment_state_1](https://user-images.githubusercontent.com/55974694/112103432-bec4ed00-8bcf-11eb-8296-0ef0e65d5a48.png)
+
+
+
 
 
 
