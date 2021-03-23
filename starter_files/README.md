@@ -146,7 +146,12 @@ Since the application insights have been enabled, it's shown as true in the prop
 Swagger is a tool that helps build, document and consume RESTful web services. It explains what types of HTTP requests that an API can consume like POST and GET.
 
 
+![swagger_ss](https://user-images.githubusercontent.com/55974694/112105580-97235400-8bd2-11eb-9068-2500305dbfd7.png)
+
+
 The HTTP GET is used to retrieve information from a URL.The parameters and responses of the HTTP GET request are as follows:
+
+
 
 
 
