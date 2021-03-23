@@ -122,6 +122,18 @@ The screenshot below is of the logs.py script and logs output, which is the info
 
 
 
+
+![logs_1](https://user-images.githubusercontent.com/55974694/112105074-fcc31080-8bd1-11eb-925c-2b3dbe4e0461.png)
+
+
+
+
+
+![logs_2](https://user-images.githubusercontent.com/55974694/112105062-f765c600-8bd1-11eb-9457-d456d9a1338c.png)
+
+
+
+
 Since the application insights have been enabled, it's shown as true in the properties section.
 
 
